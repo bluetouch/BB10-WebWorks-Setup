@@ -5,6 +5,7 @@ a Gradle script that automates the setup of the BB10 WebWorks training course on
 
 This is a place to experiment with the idea of completely and entirely automating the installation and configuration of all the software required to run the BB10 WebWorks training course. I'm not sure where this will end up but this is the first step in getting this project off the ground.
 
+One requirement that _MUST_ be met if this is going to work is this: everything has to be completely self contained and %100 automated.  
 
 Software
 ========
